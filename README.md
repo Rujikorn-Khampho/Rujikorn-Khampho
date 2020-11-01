@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rujikorn-Khampho</h1>
+<h1 align="center">Hi 👋🏻, I'm Rujikorn-Khampho</h1>
 <h3 align="center">A passionate frontend developer, backend developer, Deep Neural Network And Artificial Intelligence</h3>
 <br></br>
 <h3 align="left">Languages and Tools:</h3>
